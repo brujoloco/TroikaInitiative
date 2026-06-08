@@ -159,7 +159,7 @@ This script would never have existed without you:
 
 - **David**: The most awesome member of the *Sublime Society of Beef Steaks*
 - **Osled**: The *optimist Ardent Giant of Corda*—always with you, my brother.
-- **Tank!**: A cheerful *Sorcerer* who can "roach" those that irk him.
+- **Tank!**: A cheerful *Sorcerer of the College of Friends* who can "roach" those that irk him.
 - **Victor**: Our *close-minded Red Priest* with an intense desire for scrolls! 
 
 To all of you—thank you. You are the reason behind this script. Love to my virtual family.
