@@ -1,5 +1,6 @@
 // TroikaInitiative.js - v1.4.0
 // Troika! RPG Initiative Tracker for Roll20
+// by Brujoloco
 var TroikaInitiative = TroikaInitiative || (function () {
     'use strict';
 
