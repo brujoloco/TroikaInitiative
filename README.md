@@ -157,7 +157,7 @@ This game was a gift from a loved one, and the physical book remains a treasured
 ### **To my players**: 💛
 This script would never have existed without you:
 
-- **David**: The most awesome member of the *Eternal Society of Meat Eaters*
+- **David**: The most awesome member of the *Subline Society of Beef Steaks*
 - **Osled**: The *optimist Ardent Giant of Corda*—always with you, my brother.
 - **Tank!**: A cheerful *Sorcerer* who can "roach" those that irk him.
 - **Victor**: Our *close-minded Red Priest* with an intense desire for scrolls! 
