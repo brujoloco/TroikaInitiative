@@ -2,11 +2,11 @@
   "name": "TroikaInitiative",
   "script": "TroikaInitiative.js",
   "version": "1.4.0",
-  "description": "TroikaInitiative is an API script designed for Roll20 that automates the unique card-drawing initiative system from the Troika! RPG. This script simplifies combat management by handling deck creation, card drawing, and combatant organization directly within Roll20. It features a customizable, visually styled chat interface for GMs and players, allowing for immersive gameplay.",
+  "description": "TroikaInitiative is an API script designed for Roll20 that automates the unique card-drawing initiative system from the Troika! RPG. This script simplifies combat management by handling deck creation, card drawing, token selection, and combatant organization directly within Roll20.",
   "authors": "Brujoloco",
   "roll20userid": "5012649",
   "useroptions": [],
-  "dependencies": [],
+  "dependencies": {},
   "modifies": {
     "state.TroikaInitiative": "read, write",
     "initiative": "read, write",
