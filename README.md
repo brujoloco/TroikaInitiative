@@ -46,7 +46,7 @@ This script was built to automate the card-drawing mechanics of the game, stream
 
 1. **Go to your Roll20 game.**
 2. In **Game Settings**, enable the **API Scripts** tab (Pro users only).
-3. Upload the `TroikaInitiative.js` file or paste the script into a new API script file.
+3. Paste the script into a new API script file.
 4. Save the script—this will automatically initialize it in your game.
 5. Once loaded, a **confirmation message** will appear in the Roll20 chat.
 
